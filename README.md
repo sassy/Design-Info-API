@@ -14,11 +14,8 @@ query {
 }
 ```
 
-
-
-
-  used 
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+## Local URL
+`http://localhost:3202/graphql`
 
 
 
@@ -57,3 +54,8 @@ $ npm run test:cov
 
 ## License
 MIT
+
+
+  used by 
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+
